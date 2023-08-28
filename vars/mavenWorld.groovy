@@ -1,3 +1,4 @@
 def call() {
-  sh 'mvn clean install'
+  sh 'echo Hi From DevOps Team'
 }
+
