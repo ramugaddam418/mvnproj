@@ -1,4 +1,4 @@
 def call() {
-echo 'Hi From DevOps Team'
+bat 'mvn clean install'
 }
 
