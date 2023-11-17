@@ -170,6 +170,7 @@ Commands to manipulate WAR file on Tomcat.
     then you can check in  /opt/tomcat/webapps
 
 
+
    Browser https://localhost:8080/myproj
 
 
