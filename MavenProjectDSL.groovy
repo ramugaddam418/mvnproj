@@ -17,7 +17,7 @@ job('First-Maven-Project-Via-DSL') {
     steps {
         maven {
             goals('clean package')
-            mavenInstallation('Maven 3.9.6') // name from Jenkins Maven configuration
+           // mavenInstallation('Maven 3.9.6') // name from Jenkins Maven configuration
         }
     }
 
